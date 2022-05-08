@@ -7,6 +7,6 @@
 3. Work effectively as a part of team.
 - I worked in team to complete my [assessment](Mob%20assessment.docx) as a COIT11239 student.
 4. Communicate effectively in a professional context
-- NO evidence provided.
+- I worked in National Service Scheme [(NSS)](Abcd.jpg) in 2018.
 5. Define and demonstrate conflict management and resolution strategies.
 - As a COIT11239 student, I played a [role](Week5%20Conflict%20Scenario.docx) in conflict roleplay assessment.
