@@ -1,0 +1,50 @@
+•	My Family member have good knowledge about some common security risks and controls such as 
+
+a)	Weak passwords can be easily guessed and can be broken easily.
+b)	Malware is something like virus which damage our computer, server, computer network, leak important information and gain unauthorised control to information.
+c)	Ransomware is also a type of malware which create threat to private data, block access to that and demand some ransom to give that back.
+d)	Phishing in which attacker send corrupted and malicious email to a person to gather their sensitive information and implement some malware in their device.
+e)	 Activating MFA that provide more security layer to our data by deploying two keys  like 2-fator authentication.
+f)	Updating their devices give updated technologies and security patch which decrease risk of attacks.
+g)	Backing up data helps us to restore our data back if lost in malware attacks. 
+
+•	Data Inventory
+
+Data	Classification/Value
+Bank Account	Confidential
+Contacts	High Value
+Photos and Videos	High Value
+WhatsApp Backup	High Value
+Emails 	Confidential
+Documents	Confidential
+
+ 
+
+•	Non-Data Inventory
+
+Asset Type	Description/Location
+MacPc	Hardware
+Modem	Connect computer to internet/Networking
+Router	Connect Home network (LAN) to internet (WAN)/Networking 
+Chrome	Software
+WhatsApp	Software
+PhoneCallApp	Software
+Wife	People
+Me	People
+Internet Banking 	Process
+iPhone	Hardware
+
+ 
+
+•	Data Flows
+
+ 
+
+•	Controls
+
+Risk	Control	NIST Step
+3	Open bank account that supports MFA	Protect
+6	PowerShell Script to detect vulnerabilities	detect
+4	Backup Important data	Protect
+5	Activate Antivirus Software	Detect And protect
+2	Apply Strong password	protect
